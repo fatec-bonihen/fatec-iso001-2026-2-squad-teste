@@ -1,0 +1,1 @@
+### US-03 - Buscar item por IDComo operador, quero localizar um item por ID para consultar seus dados.Critérios de aceite:1. Dado um ID existente, o sistema retorna o item correspondente.2. Dado um ID inexistente, o sistema informa que não encontrou resultado.3. A busca não altera os dados cadastrados.
